@@ -1,4 +1,3 @@
-## Shared settings for reviewer reproducibility scripts.
 ## Please download packages：install.packages(c("ggplot2", "dplyr", "tidyr", "patchwork", "ggtext"))
 
 suppressPackageStartupMessages({
