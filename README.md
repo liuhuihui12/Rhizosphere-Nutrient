@@ -1,7 +1,9 @@
+# Rhizosphere Nutrient Enhancement and Depletion Strategies in Tropical Legumes
+
 This repository contains the R code and processed data required to reproduce the statistical analyses and figures on rhizosphere nutrient enrichment and depletion strategies in tropical legumes.
 
 
-### Note on species identifiers
+**Note**
 
 Species identifiers were standardized as anonymous labels to ensure consistent matching among individual-level data, species-level data, and the phylogenetic tree. 
 
